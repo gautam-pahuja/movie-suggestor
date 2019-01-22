@@ -1,0 +1,13 @@
+{
+  "name": "Movie Search",
+  "version": "1.0",
+  "description": "Search Movies",
+  "manifest_version": 2,
+  "icons": {
+    "16": "icons/icon16.png",
+    "48": "icons/icon48.png",
+    "128": "icons/icon128.png" },
+  "browser_action": {
+    "default_popup": "popup.html"
+  }
+}
